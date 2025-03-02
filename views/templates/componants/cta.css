@@ -1,0 +1,16 @@
+.second_cta{
+    font-family: "Roboto Mono", serif;
+    color: #1F1813;
+    text-decoration: none;
+}
+
+.main_cta{
+    font-family: "Roboto Mono", "serif";
+    background-color: #1F1813;
+    font-size: small;
+    color: #F1DABF;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 30px;
+}
+

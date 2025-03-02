@@ -1,0 +1,23 @@
+*{
+    /*border: 1px solid black;*/
+    padding: 0;
+    margin: 0;
+}
+header{
+    display: flex;
+    background-color: #F1ECE7;
+    align-items: center;
+}
+
+.logo{
+    padding: 2rem;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    gap: 2rem;
+    justify-content: flex-end;
+
+}

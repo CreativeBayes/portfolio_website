@@ -1,0 +1,75 @@
+*{
+    /*border: 1px solid black;*/
+    padding: 0;
+    margin: 0;
+}
+
+main{
+    background-color: #F1ECE7;
+}
+
+.title{
+    font-family: "Rosario", serif;
+    font-size: 5rem;
+    padding: 2rem 0rem 2rem 4rem;
+}
+
+.article{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 0rem 5rem 4rem;
+    width: 30%;
+}
+
+.center_cta{
+    display: flex;
+    justify-content: center;
+    padding: 0.5rem 0;
+    gap: 2rem;
+}
+
+h2{
+    font-family: "Roboto Mono", serif;
+    padding-bottom: 2rem;
+}
+
+p{
+    font-family: "Roboto Mono", serif;
+    padding: 0.3rem 0rem;
+}
+
+.icons_branding{
+    display: flex;
+    padding-top: 2rem;
+    width: 100%;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.icons_branding img{
+    width: 5rem;
+    height: inherit;
+}
+
+.skills{
+    font-family: "Rosario", serif;
+    font-size: 2rem;
+    padding: 2rem 0rem;
+    color: #F19248;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+}
+
+.skills h1{
+    padding: 1rem 0rem; 
+}
+
+
+.division{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0.5rem 4rem;
+}
