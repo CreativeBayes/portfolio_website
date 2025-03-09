@@ -1,11 +1,11 @@
 *{
-    /*border: 1px solid black;*/
+    border: 1px solid black;
     padding: 0;
     margin: 0;
 }
 
 footer{
-    background : linear-gradient(#F1DABF 10%,#F19248);
-    padding: 2rem 0rem;
+    background :(#F1DABF);
+    padding: 1 0rem;
     height: 20vh;
 }
